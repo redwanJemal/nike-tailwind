@@ -140,6 +140,7 @@ export const footerLinks = [
 		title: 'Get in touch',
 		links: [
 			{ name: 'customer@nike.com', link: 'mailto:customer@nike.com' },
+			{ name: 'twitter', link: 'https://twitter.com/redwanJemal_' },
 			{ name: '+251929408558', link: 'tel:+251929408558' },
 		],
 	},
